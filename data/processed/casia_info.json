@@ -1,0 +1,22 @@
+{
+  "num_classes": 7,
+  "emotion_labels": [
+    "neutral",
+    "happy",
+    "sad",
+    "angry",
+    "fearful",
+    "disgust",
+    "surprised"
+  ],
+  "emotion_to_idx": {
+    "neutral": 0,
+    "happy": 1,
+    "sad": 2,
+    "angry": 3,
+    "fearful": 4,
+    "disgust": 5,
+    "surprised": 6
+  },
+  "feature_dim": 122
+}

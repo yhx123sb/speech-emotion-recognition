@@ -1,0 +1,33 @@
+# 虚拟环境
+.venv/
+env/
+
+# IDE配置
+.vscode/
+.idea/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 编译文件
+__pycache__/
+*.pyc
+
+# 模型文件
+*.pth
+*.pt
+
+# 数据文件
+*.wav
+*.mp3
+
+# 结果文件（如果需要上传结果，可以注释掉）
+# results/
